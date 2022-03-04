@@ -12,3 +12,6 @@
 11 - adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed
 12 - creates a directory called my_dir with permissions 751 in the working directory
 13 - changes the group owner to school for the file hello
+15 - changes the owner and the group owner of _hello to vincent and staff respectively
+16 - changes the owner of the file hello to betty only if it is owned by the user guillaume
+17 - play the StarWars IV episode in the terminal
